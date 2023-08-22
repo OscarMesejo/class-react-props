@@ -1,0 +1,18 @@
+.user-card{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(248, 227, 152);
+    width: 500px;
+    height: 500px;
+    border-radius: 1vw;
+    box-shadow: 10px 5px 5px rgba(72, 72, 73, 0.533);
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}

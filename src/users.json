@@ -1,0 +1,82 @@
+[
+    {
+        "name": "David",
+        "lastname": "Miller",
+        "age": 36,
+        "role": "Intern",
+        "email": "david.miller@demo.org",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "Sarah",
+        "lastname": "Miller",
+        "age": 57,
+        "role": "Manager",
+        "email": "sarah.miller@sample.net",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "Emily",
+        "lastname": "Garcia",
+        "age": 52,
+        "role": "Sales",
+        "email": "emily.garcia@sample.net",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "Robert",
+        "lastname": "Davis",
+        "age": 54,
+        "role": "Intern",
+        "email": "robert.davis@sample.net",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "Lucy",
+        "lastname": "Johnson",
+        "age": 32,
+        "role": "QA",
+        "email": "lucy.johnson@sample.net",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "David",
+        "lastname": "Rodriguez",
+        "age": 35,
+        "role": "Intern",
+        "email": "david.rodriguez@demo.org",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "Robert",
+        "lastname": "Martinez",
+        "age": 36,
+        "role": "Intern",
+        "email": "robert.martinez@sample.net",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "Robert",
+        "lastname": "Smith",
+        "age": 38,
+        "role": "Developer",
+        "email": "robert.smith@example.com",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "David",
+        "lastname": "Brown",
+        "age": 58,
+        "role": "Admin",
+        "email": "david.brown@example.com",
+        "avatar": "https://i.pravatar.cc/300"
+    },
+    {
+        "name": "Emily",
+        "lastname": "Davis",
+        "age": 58,
+        "role": "Developer",
+        "email": "emily.davis@example.com",
+        "avatar": "https://i.pravatar.cc/300"
+    }
+]
